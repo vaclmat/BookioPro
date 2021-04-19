@@ -2,7 +2,7 @@
 
 body,
 .np-body-bg{
-	background-color: #f6f7f5; 
+	background-color: #F7CC84; 
 }
 
 /*
@@ -21,7 +21,7 @@ body,
 .ui-datepicker,  		/* 4. */
 .np-select.active
 .np-input{
-	background-color: #F7CC84;
+	background-color: #453a3a;
 }
 
 
@@ -36,7 +36,7 @@ body,
  	5. Select box options text color
 */
 .np-body p 				{
-	color: #181;
+	color: #453a3a;
 }				/* 1. */
 
 .np-link
