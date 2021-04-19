@@ -36,12 +36,18 @@ body,
  	5. Select box options text color
 */
 .np-body p 				{
-	color: #181;
+	color: #ffffff;
 }				/* 1. */
 
-.np-link,								/* 2. */
+.np-link
+{
+	color: #181;
+}/* 2. */
 .np-options a,							/* 5. */
-p a.np-link,								/* 2. */
+p a.np-link
+{
+	color: #181;
+}/* 2. */
 .np-checkbox-wrapp a,					/* 4. */
 .np-options li:not(:first-child):before{
 	color: #453a3a;
