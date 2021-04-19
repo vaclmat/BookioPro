@@ -35,7 +35,10 @@ body,
  	4. VOP text color
  	5. Select box options text color
 */
-.np-body p, 								/* 1. */
+.np-body p 				{
+	color: #181;
+}				/* 1. */
+
 .np-link,								/* 2. */
 .np-options a,							/* 5. */
 p a.np-link,								/* 2. */
