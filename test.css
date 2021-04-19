@@ -14,7 +14,7 @@ body,
   4.  Datepicker background color
 */
 #header		{
-	background-color: #221f20;
+	background-color: #181411;
 }		/* 1. */
 .np-filed 	{
 	background-color: #F7CF85;
@@ -49,12 +49,12 @@ body,
 
 .np-link
 {
-	color: #181;
+	color: #181411;
 }/* 2. */
 .np-options a,							/* 5. */
 p a.np-link
 {
-	color: #181;
+	color: #181411;
 }/* 2. */
 .np-checkbox-wrapp a,					/* 4. */
 .np-options li:not(:first-child):before{
