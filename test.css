@@ -125,8 +125,7 @@ a.np-link:hover,
 */
 .ui-datepicker-header,
 .ui-datepicker-title{ 
-	color: #F4BC57; 
-	border-style: solid;
+	color: #79d9c3; 	
 }
 
 /*
@@ -136,14 +135,14 @@ a.np-link:hover,
 	color: #665656 !important; 
 }
 .ui-datepicker-calendar .ui-state-active {
-	color: #79d9c3;
+	color: #181411;
 }
 .ui-datepicker tbody td a{
 	border-bottom: 2px solid #453a3a !important; 
 }
 
 .ui-datepicker-today a{
-	background-color: #79d9c3;
+	background-color: #181411;
 }
 .ui-datepicker-today .ui-state-active{
 	color: #fff;
