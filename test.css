@@ -75,15 +75,10 @@ a.np-link:hover,
 	4. Datepicker's next/prew arrows color
 	5. Datepicker's active days text color
 */
-#header
-{ 							/* 5. */
-	color: #181;
-}/* 1. */
+#header,
+/* 1. */
 .np-select,											/* 2. */
-.selectOptions li
-{ 							/* 5. */
-	color: #181;
-}/* 2. */
+.selectOptions li,                                                /* 2. */
 .np-filed,
 .ui-datepicker th,									/* 3. */
 .ui-datepicker-prev span,.ui-datepicker-next span, 	/* 4. */
