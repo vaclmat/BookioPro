@@ -14,14 +14,14 @@ body,
   4.  Datepicker background color
 */
 #header		{
-	background-color: #2347ef;
+	background-color: #221f20;
 }		/* 1. */
 .np-filed 	{
-	background-color: #24e930;
+	background-color: #221f20;
 }			/* 2. */
 .selectWrapper,/* 3. */
 .selectOptions{
-	background-color: #ee1544;
+	background-color: #221f20;
 } 		/* 3. */
 .ui-datepicker  {
 	background-color: #f8f416;
@@ -29,7 +29,7 @@ body,
 .np-select.active,
 .np-select:active,
 .np-input{
-	background-color: #f87916;
+	background-color: #f7cc84;
 }
 
 
@@ -152,7 +152,7 @@ a.np-link:hover,
 * Widget button style
 */
 .np-button{
-	background-color: #79d9c3; 
+	background-color: #ee1544; 
 	border-color: #6cc2af; 
 	color: #fff; 
 }
