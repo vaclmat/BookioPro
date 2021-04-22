@@ -157,7 +157,7 @@ a.np-link:hover,
 .np-button{
 	background-color: #181411; 
 	color: #F4BC57; 
-	box-shadow: 0px 0px;
+	box-shadow: none;
 	
 }
 .np-button:hover{
@@ -166,7 +166,7 @@ a.np-link:hover,
 	border-style: solid;
 	border-color:  #181411;
 	border-radius: 5px;
-	box-shadow: 0px 0px;
+	box-shadow: none;
 	
 }
 
