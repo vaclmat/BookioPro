@@ -154,12 +154,12 @@ a.np-link:hover,
 */
 .np-button{
 	background-color: #181411; 
-	border-color: #181411; 
 	color: #F4BC57; 
 }
 .np-button:hover{
  	background-color: #F4BC57; /* background-color: darken(@buttonColor, 15%);*/
 	border-color: #181411;
+	border-bottom: 1px solid #181411;
 }
 
 /*
@@ -185,7 +185,7 @@ a.np-link:hover,
 */
 .np-alternatives li{
     border-color: #181411; 
-    color: #181411;
+    color: #fff;
 }
 .np-alternatives li:hover{
     background-color: #181411; 
