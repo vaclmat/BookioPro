@@ -162,6 +162,9 @@ a.np-link:hover,
 .np-button:hover{
  	background-color: #F4BC57; /* background-color: darken(@buttonColor, 15%);*/
 	color: #181411;
+	border-style: solid;
+	border-color:  #181411;
+	border-radius: 5px;
 	
 }
 
