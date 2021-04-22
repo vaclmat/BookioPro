@@ -69,7 +69,7 @@ p a.np-link
 a.np-link:hover,
 .np-options a:hover,
 .np-checkbox-wrapp a:hover{
-	color: #232121; 
+	color: #181411; 
 	text-decoration: none;
 }
 
@@ -92,7 +92,7 @@ a.np-link:hover,
 .ui-datepicker th,									/* 3. */
 .ui-datepicker-prev span,.ui-datepicker-next span, 	/* 4. */
 .ui-datepicker tbody td a{ 							/* 5. */
-	color: #181411;
+	color: #000000;
 }
 
 /**
@@ -116,7 +116,7 @@ a.np-link:hover,
 }
 .selectOptions li:hover {
 	color: #000000;
-	background: #eff0ee;
+	background: #F7F7F7;
 }
 
 
@@ -158,8 +158,8 @@ a.np-link:hover,
 }
 .np-button:hover{
  	background-color: #F4BC57; /* background-color: darken(@buttonColor, 15%);*/
-	border-color: #181411;
-	border-bottom: 1px solid #181411;
+	color: #181411;
+	border-color: 1px solid #181411;
 }
 
 /*
