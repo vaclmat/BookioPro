@@ -45,21 +45,21 @@ body,
  	5. Select box options text color
 */
 .np-body p 				{
-	color: #453a3a;
+	color: #000000;
 }				/* 1. */
 
 .np-link
 {
-	color: #181411;
+	color: #000000;
 }/* 2. */
 .np-options a,							/* 5. */
 p a.np-link
 {
-	color: #181411;
+	color: #000000;
 }/* 2. */
 .np-checkbox-wrapp a,					/* 4. */
 .np-options li:not(:first-child):before{
-	color: #453a3a;
+	color: #000000;
 }
 
 
@@ -99,14 +99,14 @@ a.np-link:hover,
 * 	Color of top selectbox arrow (first step)
 */
 .np-select:after {
-  border-color: #746161 transparent transparent transparent; 
+  border-color: #000000 transparent transparent transparent; 
 }
 
 /**
 * 	Color of bottom selectbox arrow (first step)
 */
 .np-select:before{
-  border-color:transparent transparent #746161 transparent ;
+  border-color:transparent transparent #000000 transparent ;
 }
 
 
@@ -125,7 +125,7 @@ a.np-link:hover,
 */
 .ui-datepicker-header,
 .ui-datepicker-title{ 
-	color: #F4BC57; 	
+	color: #000000; 	
 }
 
 /*
@@ -135,17 +135,17 @@ a.np-link:hover,
 	color: #F4BC57 !important; 
 }
 .ui-datepicker-calendar .ui-state-active {
-	color: #000000;
+	color: #F4BC57;
 }
 .ui-datepicker tbody td a{
 	border-bottom: 1px solid #000000 !important; 
 }
 
 .ui-datepicker-today a{
-	background-color: #000000;
+	background-color: #F4BC57;
 }
 .ui-datepicker-today .ui-state-active{
-	color: #000000;
+	color: #F4BC57;
 }
 
 
