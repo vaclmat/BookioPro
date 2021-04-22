@@ -167,7 +167,7 @@ a.np-link:hover,
 */
 .np-label-box{
 	color: #fff;
-	background-color: #79d9c3; 
+	background-color: #181411; 
 }
 
 /*
@@ -184,11 +184,11 @@ a.np-link:hover,
 * Style definition of alternatives times. (Second step of booking)  
 */
 .np-alternatives li{
-    border-color: #453a3a; 
-    color: #453a3a;
+    border-color: #181411; 
+    color: #181411;
 }
 .np-alternatives li:hover{
-    background-color: #453a3a; 
+    background-color: #181411; 
     color: #fff;
 }
 
@@ -208,7 +208,7 @@ a.np-link:hover,
 	Border color of input fields in third step of booking
 */
 .np-input-wrapp{
-  border-bottom: 3px solid #453a3a;
+  border-bottom: 1px solid #181411;
 }
 
 
@@ -216,7 +216,7 @@ a.np-link:hover,
 	Background color of circle situated in Google Map
 */
 .np-gmap-ico{
-	background-color: #79d9c3;
+	background-color: #181411;
 }
 
 .np-text-before{
