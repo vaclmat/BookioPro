@@ -155,10 +155,16 @@ a.np-link:hover,
 .np-button{
 	background-color: #181411; 
 	color: #F4BC57; 
+	border-color: #181411;
+	border-radius: 5px;
+	border-style: 1px solid #181411;
 }
 .np-button:hover{
  	background-color: #F4BC57; /* background-color: darken(@buttonColor, 15%);*/
 	color: #181411;
+	border-color: #181411;
+	border-style: 1px solid #181411;
+	border-radius: 5px;
 }
 
 /*
