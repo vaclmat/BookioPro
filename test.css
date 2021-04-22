@@ -112,10 +112,10 @@ a.np-link:hover,
 
 /* Select box options separator */
 .selectOptions li{
-	border-bottom:1px solid #746161;
+	border-bottom:1px solid #181411;
 }
 .selectOptions li:hover {
-	color: #453a3a;
+	color: #000000;
 	background: #eff0ee;
 }
 
@@ -135,17 +135,17 @@ a.np-link:hover,
 	color: #F4BC57 !important; 
 }
 .ui-datepicker-calendar .ui-state-active {
-	color: #181411;
+	color: #000000;
 }
 .ui-datepicker tbody td a{
-	border-bottom: 2px solid #453a3a !important; 
+	border-bottom: 1px solid #000000 !important; 
 }
 
 .ui-datepicker-today a{
-	background-color: #181411;
+	background-color: #000000;
 }
 .ui-datepicker-today .ui-state-active{
-	color: #181411;
+	color: #000000;
 }
 
 
@@ -155,7 +155,7 @@ a.np-link:hover,
 .np-button{
 	background-color: #181411; 
 	border-color: #181411; 
-	color: #fff; 
+	color: #F4BC57; 
 }
 .np-button:hover{
  	background-color: #F4BC57; /* background-color: darken(@buttonColor, 15%);*/
@@ -166,7 +166,7 @@ a.np-link:hover,
 	Style definition of sub-header box (second/third/fourth step)
 */
 .np-label-box{
-	color: #fff;
+	color: #F4BC57;
 	background-color: #181411; 
 }
 
