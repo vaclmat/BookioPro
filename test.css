@@ -3,7 +3,7 @@
 body,
 .np-body-bg{
 	background-color: #F4BC57;
-	font-family: Hero-Regular;
+	font-family: Hero-New-Semibold;
 }
 
 /*
@@ -84,7 +84,9 @@ a.np-link:hover,
 	4. Datepicker's next/prew arrows color
 	5. Datepicker's active days text color
 */
-#header,
+#header { 							
+	color: #000000;
+}
 /* 1. */
 .np-select,											/* 2. */
 .selectOptions li,                                                /* 2. */
@@ -155,16 +157,12 @@ a.np-link:hover,
 .np-button{
 	background-color: #181411; 
 	color: #F4BC57; 
-	border-color: #181411;
-	border-radius: 5px;
-	border-style: 1px solid #181411;
+	
 }
 .np-button:hover{
  	background-color: #F4BC57; /* background-color: darken(@buttonColor, 15%);*/
 	color: #181411;
-	border-color: #181411;
-	border-style: 1px solid #181411;
-	border-radius: 5px;
+	
 }
 
 /*
