@@ -164,6 +164,7 @@ a.np-link:hover,
 .np-button:hover{
  	background-color: #F4BC57; /* background-color: darken(@buttonColor, 15%);*/
 	color: #181411;
+	border: solid 1px;
 	border-color:  #181411;
 	border-radius: 5px;
 	
@@ -192,17 +193,20 @@ a.np-link:hover,
 */
 .np-alternatives li{
     border-color: #181411; 
-    color: #fff;
+    color: #F4BC57;
 }
 .np-alternatives li:hover{
     background-color: #181411; 
-    color: #fff;
+    color: #F4BC57;
 }
 
 /*
 	Inactive input fields in third step.
 */
-.np-disabled,
+.np-disabled {
+	color: #181411;
+	
+}
 .np-disabled .np-input,
 .np-alternatives .np-disabled, 
 .np-alternatives .np-disabled:hover{
@@ -228,21 +232,5 @@ a.np-link:hover,
 }
 
 .np-text-before{
-	border-top: #edf0ea; 
-}
-input::-webkit-input-placeholder,
-textarea::-webkit-input-placeholder {
-  color: #181411;
-}
-input:-moz-placeholder,
-textarea:-moz-placeholder {
-  color: #181411;
-}
-input::-moz-placeholder,
-textarea::-moz-placeholder {
-  color: #181411;
-}
-input:-ms-input-placeholder,
-textarea:-ms-input-placeholder {
-  color: #181411;
+	border-top: #181411; 
 }
