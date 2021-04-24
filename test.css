@@ -216,6 +216,7 @@ a.np-link:hover,
 */
 .np-input-wrapp{
   border-bottom: 1px solid #181411;
+	color: #181411;
 }
 
 
@@ -227,5 +228,5 @@ a.np-link:hover,
 }
 
 .np-text-before{
-	border-top: #181411; 
+	border-top: #edf0ea; 
 }
