@@ -6,6 +6,10 @@ url("https://vaclmat.github.io/BookioPro/Hero-Regular.otf") format("opentype"),
 	url("https://vaclmat.github.io/BookioPro/Hero New medium.otf") format("opentype"),
 	url("https://vaclmat.github.io/BookioPro/Hero New SemiBold.otf") format("opentype");
 }
+input::placeholder {
+  color: #181411;
+	opacity: 1;
+}
 
 body,
 .np-body-bg{
@@ -43,10 +47,6 @@ body,
 .np-input{
 	background-color: #f7cc84;
 	font-family: 'Hero New SemiBold';
-	::placeholder {
-  color: #181411;
-}
-	
 }
 
 
@@ -247,18 +247,6 @@ a.np-link:hover,
 .np-input-wrapp{
   border-bottom: 1px solid #181411;
 	color: #181411;
-	::-webkit-input-placeholder { /* Edge */
-  color: #181411;
-}
-
-:-ms-input-placeholder { /* Internet Explorer */
-  color: #181411;
-}
-
-::placeholder {
-  color: #181411;
-}
-	
 }
 
 
