@@ -44,14 +44,14 @@ body,
 	background-color: #f7cc84;
 	font-family: 'Hero New SemiBold';
 	:placeholder {
-  color: #666;
+  color: #181411;
 		opacity: 1;
 }
 ::-ms-input-placeholder {
-  color: #666;
+  color: #181411;
 }
 :-ms-input-placeholder {
-  color: #666;
+  color: #181411;
 }
 }
 
