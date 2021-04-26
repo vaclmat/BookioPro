@@ -1,5 +1,12 @@
 /* Widget background color */ 
 
+@font-face {
+font-family: "CustomFont";
+url("https://vaclmat.github.io/BookioPro/Hero-Regular.otf") format("opentype"),
+	url("https://vaclmat.github.io/BookioPro/Hero New medium.otf") format("opentype"),
+	url("https://vaclmat.github.io/BookioPro/Hero New SemiBold.otf") format("opentype");
+}
+
 body,
 .np-body-bg{
 	background-color: #F4BC57;
@@ -221,6 +228,18 @@ a.np-link:hover,
 .np-input-wrapp{
   border-bottom: 1px solid #181411;
 	color: #181411;
+	input::-webkit-input-placeholder {
+  color: #666;
+}
+input:-moz-placeholder {
+  color: #666;
+}
+input::-moz-placeholder {
+  color: #666;
+}
+input:-ms-input-placeholder {
+  color: #666;
+}
 }
 
 
