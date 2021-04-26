@@ -43,15 +43,7 @@ body,
 .np-input{
 	background-color: #f7cc84;
 	font-family: 'Hero New SemiBold';
-	::-webkit-input-placeholder { /* Edge */
-  color: #181411;
-}
-
-:-ms-input-placeholder { /* Internet Explorer */
-  color: #181411;
-}
-
-::placeholder {
+	::placeholder {
   color: #181411;
 }
 	
