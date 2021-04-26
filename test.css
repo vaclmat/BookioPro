@@ -6,10 +6,6 @@ url("https://vaclmat.github.io/BookioPro/Hero-Regular.otf") format("opentype"),
 	url("https://vaclmat.github.io/BookioPro/Hero New medium.otf") format("opentype"),
 	url("https://vaclmat.github.io/BookioPro/Hero New SemiBold.otf") format("opentype");
 }
-input::placeholder {
-  color: #181411;
-	opacity: 1;
-}
 
 body,
 .np-body-bg{
@@ -47,6 +43,9 @@ body,
 .np-input{
 	background-color: #f7cc84;
 	font-family: 'Hero New SemiBold';
+}
+.np-input::placeholder {
+	color: #181411;
 }
 
 
