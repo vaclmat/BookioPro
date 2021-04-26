@@ -43,16 +43,14 @@ body,
 .np-input{
 	background-color: #f7cc84;
 	font-family: 'Hero New SemiBold';
-	input::-webkit-input-placeholder-shown {
+	:placeholder {
+  color: #666;
+		opacity: 1;
+}
+::-ms-input-placeholder {
   color: #666;
 }
-input:-moz-placeholder-shown {
-  color: #666;
-}
-input::-moz-placeholder-shown {
-  color: #666;
-}
-input:-ms-input-placeholder-shown {
+:-ms-input-placeholder {
   color: #666;
 }
 }
@@ -114,6 +112,7 @@ a.np-link:hover,
 */
 #header { 							
 	color: #000000;
+	font-family: 'Hero New SemiBold';
 }
 /* 1. */
 .np-select,											/* 2. */
@@ -187,6 +186,7 @@ a.np-link:hover,
 	background-color: #181411; 
 	color: #F4BC57; 
 	border-radius: 5px;
+	font-family: 'Hero New SemiBold';
 	
 	
 }
@@ -205,6 +205,7 @@ a.np-link:hover,
 .np-label-box{
 	color: #F4BC57;
 	background-color: #181411; 
+	font-family: 'Hero New SemiBold';
 }
 
 /*
