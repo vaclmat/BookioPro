@@ -53,20 +53,24 @@ body,
 */
 .np-body p 				{
 	color: #000000;
+	font-family: 'Hero New SemiBold';
 }				/* 1. */
 
 .np-link
 {
 	color: #000000;
+	font-family: 'Hero New SemiBold';
 }/* 2. */
 .np-options a,							/* 5. */
 p a.np-link
 {
 	color: #000000;
+	font-family: 'Hero New SemiBold';
 }/* 2. */
 .np-checkbox-wrapp a,					/* 4. */
 .np-options li:not(:first-child):before{
 	color: #000000;
+	font-family: 'Hero New SemiBold';
 }
 
 
@@ -102,6 +106,7 @@ a.np-link:hover,
 .ui-datepicker-prev span,.ui-datepicker-next span, 	/* 4. */
 .ui-datepicker tbody td a{ 							/* 5. */
 	color: #000000;
+	font-family: 'Hero New SemiBold';
 }
 
 /**
@@ -228,16 +233,16 @@ a.np-link:hover,
 .np-input-wrapp{
   border-bottom: 1px solid #181411;
 	color: #181411;
-	input::-webkit-input-placeholder {
+	input::-webkit-input-placeholder-shown {
   color: #666;
 }
-input:-moz-placeholder {
+input:-moz-placeholder-shown {
   color: #666;
 }
-input::-moz-placeholder {
+input::-moz-placeholder-shown {
   color: #666;
 }
-input:-ms-input-placeholder {
+input:-ms-input-placeholder-shown {
   color: #666;
 }
 }
