@@ -46,6 +46,15 @@ body,
 }
 .np-input::placeholder {
 	color: #181411;
+	opacity: 1;
+}
+
+.np-input::-webkit-input-placeholder {
+    color: #181411;
+}
+
+.np-input::-ms-input-placeholder {
+    color: #181411;
 }
 
 
