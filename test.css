@@ -43,16 +43,7 @@ body,
 .np-input{
 	background-color: #f7cc84;
 	font-family: 'Hero New SemiBold';
-	:placeholder {
-  color: #181411;
-		opacity: 1;
-}
-::-ms-input-placeholder {
-  color: #181411;
-}
-:-ms-input-placeholder {
-  color: #181411;
-}
+	
 }
 
 
@@ -251,6 +242,16 @@ a.np-link:hover,
 .np-input-wrapp{
   border-bottom: 1px solid #181411;
 	color: #181411;
+	:placeholder {
+  color: #181411;
+		opacity: 1;
+}
+::-ms-input-placeholder {
+  color: #181411;
+}
+:-ms-input-placeholder {
+  color: #181411;
+}
 	
 }
 
