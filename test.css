@@ -215,10 +215,12 @@ a.np-link:hover,
 .np-alternatives li{
     border-color: #181411; 
     color: #F4BC57;
+	font-family: 'Hero New SemiBold';
 }
 .np-alternatives li:hover{
     background-color: #181411; 
     color: #F4BC57;
+	font-family: 'Hero New SemiBold';
 }
 
 /*
@@ -242,14 +244,15 @@ a.np-link:hover,
 .np-input-wrapp{
   border-bottom: 1px solid #181411;
 	color: #181411;
-	:placeholder {
-  color: #181411;
-		opacity: 1;
-}
-::-ms-input-placeholder {
+	::-webkit-input-placeholder { /* Edge */
   color: #181411;
 }
-:-ms-input-placeholder {
+
+:-ms-input-placeholder { /* Internet Explorer */
+  color: #181411;
+}
+
+::placeholder {
   color: #181411;
 }
 	
