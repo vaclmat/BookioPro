@@ -2,14 +2,14 @@
 
 @font-face {
 font-family: "CustomFont";
-url("https://vaclmat.github.io/BookioPro/Hero-test.otf") format("opentype")
+url("https://vaclmat.github.io/BookioPro/Hero Regular.ttf") format("opentype")
 }
 
 
 body,
 .np-body-bg{
 	background-color: #F4BC57;
-	font-family: 'Hero-test';
+	font-family: 'CustomFont';
 }
 
 /*
