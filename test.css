@@ -11,7 +11,7 @@ url("https://vaclmat.github.io/BookioPro/Hero-Regular.otf") format("opentype"),
 body,
 .np-body-bg{
 	background-color: #F4BC57;
-	font-family: 'Hero-test.otf';
+	font-family: 'Hero-test';
 }
 
 /*
@@ -24,26 +24,26 @@ body,
 */
 #header		{
 	background-color: #F4BC57;
-	font-family: 'Hero-test.otf';
+	font-family: 'Hero-test';
 }		/* 1. */
 .np-filed 	{
 	background-color: #F7CF85;
-	font-family: 'Hero-test.otf';
+	font-family: 'Hero-test';
 }			/* 2. */
 .selectWrapper,/* 3. */
 .selectOptions{
 	background-color: #F7CF85;
-	font-family: 'Hero-test.otf';
+	font-family: 'Hero-test';
 } 		/* 3. */
 .ui-datepicker  {
 	background-color: #F7CF85;
-	font-family: 'Hero-test.otf';
+	font-family: 'Hero-test';
 }		/* 4. */
 .np-select.active,
 .np-select:active,
 .np-input{
 	background-color: #f7cc84;
-	font-family: 'Hero New medium';
+	font-family: 'Hero-test';
 }
 .np-input::placeholder {
 	color: #181411;
@@ -88,7 +88,7 @@ p a.np-link
 .np-checkbox-wrapp a,					/* 4. */
 .np-options li:not(:first-child):before{
 	color: #000000;
-	font-family: 'Hero-test.otf';
+	font-family: 'Hero-test';
 }
 
 
@@ -115,7 +115,7 @@ a.np-link:hover,
 */
 #header { 							
 	color: #000000;
-	font-family: 'Hero-test.otf';
+	font-family: 'Hero-test';
 }
 /* 1. */
 .np-select,											/* 2. */
@@ -125,7 +125,7 @@ a.np-link:hover,
 .ui-datepicker-prev span,.ui-datepicker-next span, 	/* 4. */
 .ui-datepicker tbody td a{ 							/* 5. */
 	color: #000000;
-	font-family: 'Hero-test.otf';
+	font-family: 'Hero-test';
 }
 
 /**
@@ -189,7 +189,7 @@ a.np-link:hover,
 	background-color: #181411; 
 	color: #F4BC57; 
 	border-radius: 5px;
-	font-family: 'Hero-test.otf';
+	font-family: 'Hero-test';
 	
 	
 }
@@ -208,7 +208,7 @@ a.np-link:hover,
 .np-label-box{
 	color: #F4BC57;
 	background-color: #181411; 
-	font-family: 'Hero-test.otf';
+	font-family: 'Hero-test';
 }
 
 /*
@@ -227,12 +227,12 @@ a.np-link:hover,
 .np-alternatives li{
     border-color: #181411; 
     color: #F4BC57;
-	font-family: 'Hero-test.otf';
+	font-family: 'Hero-test';
 }
 .np-alternatives li:hover{
     background-color: #181411; 
     color: #F4BC57;
-	font-family: 'Hero-test.otf';
+	font-family: 'Hero-test';
 }
 
 /*
