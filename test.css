@@ -2,16 +2,15 @@
 
 
 @font-face {
-font-family: "hero-regular-webfont";
-src: url("/BookioPro/test/hero-regular-webfont.woff") format("truetype")
-     url("/BookioPro/Hero New medium.otf") format("opentype"),
-     url("https://vaclmat.github.io/BookioPro/Hero-test.otf") format("opentype");
+font-family: "hero new medium";
+src: url("/Hero New medium.otf") format("opentype"),
+     
 }
 
 body,
 .np-body-bg{
 	background-color: #F4BC57;
-	font-family: 'hero-regular-webfont';
+	font-family: 'hero new medium';
 }
 
 .powered-by {
@@ -28,20 +27,20 @@ body,
 */
 #header		{
 	background-color: #F4BC57;
-	font-family: 'hero-regular-webfont';
+	font-family: 'hero new medium';
 }		/* 1. */
 .np-filed 	{
 	background-color: #F7CF85;
-	font-family: 'hero-regular-webfont';
+	font-family: 'hero new medium';
 }			/* 2. */
 .selectWrapper,/* 3. */
 .selectOptions{
 	background-color: #F7CF85;
-	font-family: 'hero-regular-webfont';
+	font-family: 'hero new medium';
 } 		/* 3. */
 .ui-datepicker  {
 	background-color: #F7CF85;
-	font-family: 'Hero-Regular;
+	font-family: 'hero new medium;
 }		/* 4. */
 .np-select.active,
 .np-select:active,
