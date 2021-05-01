@@ -3,8 +3,8 @@
 
 @font-face {
 font-family: "hero-regular-webfont";
-src: url("https://github.com/vaclmat/BookioPro/test/hero-regular-webfont.woff") format("truetype")
-     url("https://vaclmat.github.io/BookioPro/Hero New medium.otf") format("opentype"),
+src: url("/BookioPro/test/hero-regular-webfont.woff") format("truetype")
+     url("/BookioPro/Hero New medium.otf") format("opentype"),
      url("https://vaclmat.github.io/BookioPro/Hero-test.otf") format("opentype");
 }
 
