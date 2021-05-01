@@ -2,7 +2,7 @@
 
 @font-face {
 font-family: "Hero-Regular";
-url("https://vaclmat.github.io/BookioPro/Hero-Regular.ttf") format("ttf")
+src: url("https://vaclmat.github.io/BookioPro/Hero-Regular.ttf") format("ttf")
 }
 
 
