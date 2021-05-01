@@ -12,6 +12,10 @@ body,
 	font-family: 'CustomFont';
 }
 
+.powered-by {
+  visibility: hidden;
+}
+
 /*
   Definition of: 
   
