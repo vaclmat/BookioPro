@@ -2,12 +2,10 @@
 
 
 @font-face {
-    font-family: 'heroregular';
-    src: url('https://vaclmat.github.io/BookioPro/test/hero-regular-webfont.woff2') format('woff2'),
-         url('hero-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+font-family: "Hero-Regular";
+src: url("https://vaclmat.github.io/BookioPro/Hero-Regular.ttf") format("ttf")
+     url("https://vaclmat.github.io/BookioPro/Hero New medium.otf") format("opentype"),
+     url("https://vaclmat.github.io/BookioPro/Hero-test.otf") format("opentype");
 }
 
 body,
