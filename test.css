@@ -3,7 +3,7 @@
 
 @font-face {
 font-family: "hero new medium";
-src: url("/Hero New medium.otf") format("opentype"),
+src: url("../Hero New medium.otf") format("opentype"),
      
 }
 
