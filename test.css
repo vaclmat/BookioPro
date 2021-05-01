@@ -2,8 +2,8 @@
 
 
 @font-face {
-font-family: "Hero-Regular";
-src: url("https://vaclmat.github.io/BookioPro/Hero-Regular.ttf") format("ttf")
+font-family: "hero-regular-webfont";
+src: url("https://github.com/vaclmat/BookioPro/test/hero-regular-webfont.woff") format("ttf")
      url("https://vaclmat.github.io/BookioPro/Hero New medium.otf") format("opentype"),
      url("https://vaclmat.github.io/BookioPro/Hero-test.otf") format("opentype");
 }
@@ -11,7 +11,7 @@ src: url("https://vaclmat.github.io/BookioPro/Hero-Regular.ttf") format("ttf")
 body,
 .np-body-bg{
 	background-color: #F4BC57;
-	font-family: 'Hero-Regular';
+	font-family: 'hero-regular-webfont';
 }
 
 .powered-by {
@@ -28,16 +28,16 @@ body,
 */
 #header		{
 	background-color: #F4BC57;
-	font-family: 'Hero-Regular';
+	font-family: 'hero-regular-webfont';
 }		/* 1. */
 .np-filed 	{
 	background-color: #F7CF85;
-	font-family: 'Hero-Regular';
+	font-family: 'hero-regular-webfont';
 }			/* 2. */
 .selectWrapper,/* 3. */
 .selectOptions{
 	background-color: #F7CF85;
-	font-family: 'Hero-Regular';
+	font-family: 'hero-regular-webfont';
 } 		/* 3. */
 .ui-datepicker  {
 	background-color: #F7CF85;
@@ -47,7 +47,7 @@ body,
 .np-select:active,
 .np-input{
 	background-color: #f7cc84;
-	font-family: 'Hero-Regular';
+	font-family: 'hero-regular-webfont';
 }
 .np-input::placeholder {
 	color: #181411;
@@ -75,7 +75,7 @@ body,
 */
 .np-body p 				{
 	color: #000000;
-	font-family: 'Hero-Regular';
+	font-family: 'hero-regular-webfont';
 }				/* 1. */
 
 .np-link
@@ -87,12 +87,12 @@ body,
 p a.np-link
 {
 	color: #000000;
-	font-family: 'Hero-Regular';
+	font-family: 'hero-regular-webfont';
 }/* 2. */
 .np-checkbox-wrapp a,					/* 4. */
 .np-options li:not(:first-child):before{
 	color: #000000;
-	font-family: 'Hero-Regular';
+	font-family: 'hero-regular-webfont';
 }
 
 
@@ -119,7 +119,7 @@ a.np-link:hover,
 */
 #header { 							
 	color: #000000;
-	font-family: 'Hero-Regular';
+	font-family: 'hero-regular-webfont';
 }
 /* 1. */
 .np-select,											/* 2. */
@@ -129,7 +129,7 @@ a.np-link:hover,
 .ui-datepicker-prev span,.ui-datepicker-next span, 	/* 4. */
 .ui-datepicker tbody td a{ 							/* 5. */
 	color: #000000;
-	font-family: 'Hero-Regular';
+	font-family: 'hero-regular-webfont';
 }
 
 /**
@@ -193,7 +193,7 @@ a.np-link:hover,
 	background-color: #181411; 
 	color: #F4BC57; 
 	border-radius: 5px;
-	font-family: 'Hero-Regular';
+	font-family: 'hero-regular-webfont';
 	
 	
 }
@@ -212,7 +212,7 @@ a.np-link:hover,
 .np-label-box{
 	color: #F4BC57;
 	background-color: #181411; 
-	font-family: 'Hero-Regular';
+	font-family: 'hero-regular-webfont';
 }
 
 /*
@@ -231,12 +231,12 @@ a.np-link:hover,
 .np-alternatives li{
     border-color: #181411; 
     color: #F4BC57;
-	font-family: 'Hero-Regular';
+	font-family: 'hero-regular-webfont';
 }
 .np-alternatives li:hover{
     background-color: #181411; 
     color: #F4BC57;
-	font-family: 'Hero-Regular';
+	font-family: 'hero-regular-webfont';
 }
 
 /*
