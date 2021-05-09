@@ -52,14 +52,17 @@ body,
 .np-input::placeholder {
 	color: #181411;
 	opacity: 1;
+	font-family: 'Hero-Regular';
 }
 
 .np-input::-webkit-input-placeholder {
     color: #181411;
+    font-family: 'Hero-Regular';
 }
 
 .np-input::-ms-input-placeholder {
     color: #181411;
+    font-family: 'Hero-Regular';
 }
 
 
@@ -104,6 +107,7 @@ a.np-link:hover,
 .np-checkbox-wrapp a:hover{
 	color: #181411; 
 	text-decoration: none;
+	font-family: 'Hero-Regular';
 }
 
 
@@ -162,7 +166,8 @@ a.np-link:hover,
 */
 .ui-datepicker-header,
 .ui-datepicker-title{ 
-	color: #000000; 	
+	color: #000000; 
+	font-family: 'Hero-Regular';
 }
 
 /*
@@ -170,6 +175,7 @@ a.np-link:hover,
 */
 .ui-datepicker-unselectable span{
 	color: #F4BC57 !important; 
+	
 }
 .ui-datepicker-calendar .ui-state-active {
 	color: #F4BC57;
@@ -231,12 +237,12 @@ a.np-link:hover,
 .np-alternatives li{
     border-color: #181411; 
     color: #F4BC57;
-	font-family: 'Hero-Regular';
+    font-family: 'Hero-Regular';
 }
 .np-alternatives li:hover{
     background-color: #181411; 
     color: #F4BC57;
-	font-family: 'Hero-Regular';
+    font-family: 'Hero-Regular';
 }
 
 /*
@@ -244,6 +250,7 @@ a.np-link:hover,
 */
 .np-disabled {
 	color: #181411;
+	font-family: 'Hero-Regular';
 	
 }
 .np-disabled .np-input,
