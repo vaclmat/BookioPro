@@ -67,12 +67,14 @@ body,
 }
 
 .np-date,
-.np-time,
-.np-count,
-.np-zone {
+ {
 	font-family: 'Hero-Regular';
 }
 
+#time-label
+ {
+	font-family: 'Hero-Regular';
+}
 
 /*
  	Base text style
