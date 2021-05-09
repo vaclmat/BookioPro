@@ -34,6 +34,11 @@ body,
 	background-color: #F7CF85;
 	font-family: 'Hero-Regular';
 }			/* 2. */
+
+.np-fields {
+	font-family: 'Hero-Regular';
+}
+
 .selectWrapper,/* 3. */
 .selectOptions{
 	background-color: #F7CF85;
