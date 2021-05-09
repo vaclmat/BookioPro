@@ -35,10 +35,6 @@ body,
 	font-family: 'Hero-Regular';
 }			/* 2. */
 
-.ng-scope {
-	font-family: 'Hero-Regular';
-}
-
 .selectWrapper,/* 3. */
 .selectOptions{
 	background-color: #F7CF85;
@@ -68,6 +64,10 @@ body,
 .np-input::-ms-input-placeholder {
     color: #181411;
     font-family: 'Hero-Regular';
+}
+
+.np-date {
+	font-family: 'Hero-Regular';
 }
 
 
