@@ -90,7 +90,7 @@ body,
 p a.np-link
 {
 	color: #000000;
-	font-family: 'hero-regular-webfont';
+	font-family: 'Hero-Regular';
 }/* 2. */
 .np-checkbox-wrapp a,					/* 4. */
 .np-options li:not(:first-child):before{
@@ -123,7 +123,7 @@ a.np-link:hover,
 */
 #header { 							
 	color: #000000;
-	font-family: 'Hero-Regular';
+	
 }
 /* 1. */
 .np-select,											/* 2. */
@@ -278,5 +278,7 @@ a.np-link:hover,
 }
 
 .np-text-before{
-	border-top: #181411; 
+	border-top: #181411;
+	font-family: 'Hero-Regular';
+	
 }
