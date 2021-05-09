@@ -71,7 +71,10 @@ body,
 	font-family: 'Hero-Regular';
 }
 
-#time-label
+#time-label, 
+#count-label,
+#duration-label,
+#zone-label
  {
 	font-family: 'Hero-Regular';
 }
