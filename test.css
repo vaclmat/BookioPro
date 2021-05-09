@@ -66,16 +66,24 @@ body,
     font-family: 'Hero-Regular';
 }
 
-.np-date,
+#date-label
  {
 	font-family: 'Hero-Regular';
 }
 
 #time-label, 
-#count-label,
-#duration-label,
-#zone-label
  {
+	font-family: 'Hero-Regular';
+}
+
+#count-label  {
+	font-family: 'Hero-Regular';
+}
+#duration-label
+ {
+	font-family: 'Hero-Regular';
+}
+#zone-label  {
 	font-family: 'Hero-Regular';
 }
 
